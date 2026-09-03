@@ -24,6 +24,7 @@ Report 3: Customer Purchase Analysis
 
 Shows the total orders, total spending, and average order value for each customer.
 <img width="617" height="245" alt="image" src="https://github.com/user-attachments/assets/00358937-7088-40cb-a831-7e5d080409ab" />
+
 This report helps analyze customer purchasing behavior.
 
 Total Sales
