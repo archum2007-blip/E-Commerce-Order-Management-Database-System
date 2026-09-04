@@ -23,7 +23,8 @@ The Payment table is connected to the Orders table using:
 Orders (1) ─────── (Many) Payment
 
 One order can have payment records associated with it, while each payment belongs to a particular order.
-<img width="1016" height="802" alt="image" src="https://github.com/user-attachments/assets/581fa0df-7fcb-4ef7-9a98-64726c9aacc4" />
+<img width="768" height="757" alt="image" src="https://github.com/user-attachments/assets/4adbf9ec-3bf5-4345-a9db-ace301ea1cbf" />
+
 
 
 Payment Analysis Reports
