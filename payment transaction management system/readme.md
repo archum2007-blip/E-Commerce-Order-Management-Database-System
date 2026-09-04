@@ -33,6 +33,7 @@ Report 1 – Payment Mode Analysis
 
 
 Shows the number of UPI transactions, card payments and the most preferred payment method.
+
 Report 2 – Revenue Analysis
 
 <img width="702" height="67" alt="image" src="https://github.com/user-attachments/assets/4edd2d9a-150b-40fa-9d57-40e924196ab5" />
