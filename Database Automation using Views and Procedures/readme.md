@@ -69,7 +69,7 @@ The database objects are tested using MySQL Workbench.
 - Low-stock products are identified successfully.
 
 ## 7. Conclusion
-
+Database automation using Views, Stored Procedures and Functions reduces repetitive SQL coding and simplifies database operations. The implemented system helps manage customer orders, calculate sales, monitor inventory and generate business reports efficiently.
 
 ## 8. Sql Report
 Customer Order Report View
@@ -100,4 +100,4 @@ Total Sales Function
 
 <img width="267" height="161" alt="image" src="https://github.com/user-attachments/assets/a20d7ef1-ded8-4761-b9c5-6b787d3d7845" />
 
-Database automation using Views, Stored Procedures and Functions reduces repetitive SQL coding and simplifies database operations. The implemented system helps manage customer orders, calculate sales, monitor inventory and generate business reports efficiently.
+
